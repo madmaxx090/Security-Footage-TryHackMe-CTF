@@ -30,9 +30,11 @@ In this CTF, I was given a `.pcap` file that simulated a security camera stream.
 
 follow the security footage document 
 
+
 ## 👤 Author
 
 **Name:** Unaiza  
-**Role:** Cybersecurity Student | CTF Enthusiast | TryHackMe Explorer  |
+**Role:** Cybersecurity Student | CTF Enthusiast | TryHackMe Explorer  
 **Semester:** 4th Semester – BS Cyber Security  
-**LinkedIn:** linkedin.com/in/unaiza-fatima-72451127b
+**LinkedIn:** [linkedin.com/in/unaiza-fatima-72451127b](https://www.linkedin.com/in/unaiza-fatima-72451127b)  
+
