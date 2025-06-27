@@ -28,6 +28,11 @@ In this CTF, I was given a `.pcap` file that simulated a security camera stream.
 
 ## 🧾 Step-by-Step Walkthrough
 
-### 🔍 Step 1: Open PCAP in Wireshark
-```bash
-wireshark security-footage-1648933966395.pcap
+follow the security footage document 
+
+## 👤 Author
+
+**Name:** Unaiza  
+**Role:** Cybersecurity Student | CTF Enthusiast | TryHackMe Explorer  |
+**Semester:** 4th Semester – BS Cyber Security  
+**LinkedIn:** linkedin.com/in/unaiza-fatima-72451127b
